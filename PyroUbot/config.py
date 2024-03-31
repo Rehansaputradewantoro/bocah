@@ -1,5 +1,9 @@
 import os
 
+from dotenv import load_dotenv
+
+load_dotenv(".env")
+
 DEVS = [
     995099715,
 ]
