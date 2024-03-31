@@ -4,9 +4,9 @@ DEVS = [
     995099715,
 ]
 
-API_ID = int(os.getenv("API_ID", "995099715"))
+API_ID = int(os.getenv("API_ID", "18394895"))
 
-API_HASH = os.getenv("API_HASH", "050e7be583eeb13d8f52c8e7cf8740e9")
+API_HASH = os.getenv("API_HASH", "72f2933b238581746728c9fc415d6ece")
 
 BOT_TOKEN = os.getenv("BOT_TOKEN", "6338027024:AAEmOv3PDOyrC_pIH7B_ToZd1i6KqGWRre0")
 
